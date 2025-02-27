@@ -41,7 +41,7 @@ npx cypress open
 * Select E2E testing
 * Select your preferred web browser and start the E2E testing
 * Execute the desired .cy.js
-* Happy testing!
+* Happy testing! :)
 
 ## Authors
 
