@@ -1,10 +1,13 @@
 # Cypress Workshop
 
-Blankfactor workshop at QA monthly meeting.
+<p align="center">
+  <img src="./img/mr-gorilla-coding.jpg" alt="Size Limit CLI" width="738">
+</p>
 
 ## Description
 
 Discover how to optimize testing for your web applications using Cypress, one of the most powerful and user-friendly automation tools. In this workshop, you’ll learn the basics of Cypress, how to write your first automated tests, and how to execute them efficiently. Perfect for those looking to get started with web test automation!
+
 
 ## Getting Started
 
@@ -13,35 +16,36 @@ Discover how to optimize testing for your web applications using Cypress, one of
 * Homebrew
 * MacOS Ventura 13 or higher
 
-### Installing
+### Install Dependencies
 
-* Download and install Node.js
+1. Download and install Node.js
 ```
 brew install node
 ```
-* Download and install Cypress
+2. Download and install Cypress
 ```
 npm install cypress
 ```
-* Download and install Visual Studio Code (https://code.visualstudio.com/)
+3. Download and install Visual Studio Code: https://code.visualstudio.com/
 ```
 brew install --cask visual-studio-code
 ```
-* Clone the main repo
+4. Clone the main repo
 ```
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/jriveradarkmatter/cypress-workshop.git
 ```
 
-### Executing program
+### Execute Cypress
 
-* Launch Cypress UI
+1. Launch Cypress UI
 ```
 npx cypress open
 ```
-* Select E2E testing
-* Select your preferred web browser and start the E2E testing
-* Execute the desired .cy.js
-* Happy testing! :)
+2. Select E2E testing
+3. Select your preferred web browser and start the E2E testing
+4. Execute the desired .cy.js
+5. Happy testing!
+
 
 ## Authors
 
@@ -49,6 +53,7 @@ Contributors names and contact info
 
 DarkMatterDev
 [@jriveradarkmatter](https://github.com/jriveradarkmatter)
+
 
 ## Version History
 
